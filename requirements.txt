@@ -1,0 +1,7 @@
+customtkinter
+aiofiles
+ebooklib
+beautifulsoup4
+pypdf
+edge-tts
+imageio-ffmpeg
