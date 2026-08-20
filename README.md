@@ -1,3 +1,5 @@
+<img width="2323" height="537" alt="Untitled Document 2 (1) (1) (5) (2)" src="https://github.com/user-attachments/assets/7fa0811c-34f1-47ce-a362-a6cb708cb7cd" />
+
 # ⚡ HyperScribe
 
 **A native, high-velocity desktop audiobook studio.** HyperScribe converts eBooks and documents (EPUB, PDF, TXT, MD, HTML) into narrated MP3 audiobooks using Microsoft Edge's neural text-to-speech voices — with async, high-concurrency synthesis and lossless audio stitching.
