@@ -70,6 +70,11 @@ python hyperscribe.py
 3. **Synthesis** — `HyperAudioSynthesizer` fires off async `edge-tts` requests, bounded by a semaphore for concurrency control.
 4. **Stitching** — `join_audio_files` merges per-chunk MP3s into per-chapter files, then merges all chapters into the final audiobook, preferring `ffmpeg` concat for reliability.
 
+<img width="1020" height="923" alt="image" src="https://github.com/user-attachments/assets/7bc62d11-8ce5-40af-9ad0-75a3465f73d1" />
+<img width="1912" height="1102" alt="image" src="https://github.com/user-attachments/assets/338129ee-cc8f-4e67-81d4-f8050ec6824a" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/60c97e04-fa68-4904-a556-5490bdf08d34" />
+
+
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
